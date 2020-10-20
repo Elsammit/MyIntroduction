@@ -1,0 +1,14 @@
+.ProfTitle{
+    left:35%;
+    font-size: 100px;
+    position: absolute; 
+    font-weight: bold;
+}
+
+.Profile-Pro{
+    height: 500px;
+    width: 800px;
+    left:30%;
+    top:300px;
+    position: absolute; 
+}

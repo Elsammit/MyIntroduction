@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Top from './top';
+import Library from './library';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Top />
+    <Library />
   </React.StrictMode>,
   document.getElementById('root')
 );
