@@ -5,9 +5,7 @@ import Library from './library';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Library />
-  </React.StrictMode>,
+    <Library />,
   document.getElementById('root')
 );
 

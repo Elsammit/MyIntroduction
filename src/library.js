@@ -5,24 +5,19 @@ import Top from './top';
 import Main from './mainpage'
 import "./mainpage.css";
 import Profile from './profile'
-export default class waniwani extends Component  {
-    constructor (props) {
-        super(props);
-        this.state = {
-            location:0,
-        };
-    }
-
+class library extends Component  {
     render() {
         return (<div>
-            <BrowserRouter basename={process.env.PUBLIC_URL}>
-                <div>
+            <BrowserRouter basename={process.env.PUBLIC_URL + '/'}>
+                <Switch>
                     <Route exact path='/' component={Main} />
                     <Route path='/MakeGame' component={Top} />
                     <Route path='/Profile' component={Profile} />
-                </div>
+                </Switch>
             </BrowserRouter>
            
         </div>);
     }
   }
+
+  export default library;
