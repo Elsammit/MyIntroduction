@@ -15,7 +15,6 @@ class library extends Component  {
                     <Route path='/Profile' component={Profile} />
                 </Switch>
             </BrowserRouter>
-           
         </div>);
     }
   }
