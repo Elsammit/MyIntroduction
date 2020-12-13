@@ -31,6 +31,12 @@ header{
     display: flex;
 }
 
+.leftaside{
+    width:200px;
+    margin-top: 50px;
+    margin-left:50px;
+}
+
 .article{
     width:900px;
 }
@@ -38,7 +44,7 @@ header{
 .aside{
     width:200px;
     margin-top: 50px;
-    margin-left:300px;
+    margin-left:250px;
 }
 
 .Tbl{

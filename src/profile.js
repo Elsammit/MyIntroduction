@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
 import "./profile.css";
 import profile from "./image/profile.jpg";
 export default class waniwani extends Component  {
@@ -16,7 +15,7 @@ export default class waniwani extends Component  {
                     <div className="ProfTitle">
                         <p>プロフィール</p>
                     </div>
-                    <img src={profile} className="Profile-Pro" />
+                    <img src={profile} alt="profImg" className="Profile-Pro" />
                 </body>
         </div>);
     }
