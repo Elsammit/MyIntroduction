@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyIntroduction/static/css/main.a5686af0.chunk.css",
-    "main.js": "/MyIntroduction/static/js/main.64651452.chunk.js",
-    "main.js.map": "/MyIntroduction/static/js/main.64651452.chunk.js.map",
+    "main.css": "/MyIntroduction/static/css/main.0cbc12a6.chunk.css",
+    "main.js": "/MyIntroduction/static/js/main.ab175841.chunk.js",
+    "main.js.map": "/MyIntroduction/static/js/main.ab175841.chunk.js.map",
     "runtime-main.js": "/MyIntroduction/static/js/runtime-main.2ed7c1ae.js",
     "runtime-main.js.map": "/MyIntroduction/static/js/runtime-main.2ed7c1ae.js.map",
-    "static/js/2.d29e212e.chunk.js": "/MyIntroduction/static/js/2.d29e212e.chunk.js",
-    "static/js/2.d29e212e.chunk.js.map": "/MyIntroduction/static/js/2.d29e212e.chunk.js.map",
+    "static/js/2.546da225.chunk.js": "/MyIntroduction/static/js/2.546da225.chunk.js",
+    "static/js/2.546da225.chunk.js.map": "/MyIntroduction/static/js/2.546da225.chunk.js.map",
     "index.html": "/MyIntroduction/index.html",
-    "precache-manifest.80197168dd5a67972611688fe6c1cdd6.js": "/MyIntroduction/precache-manifest.80197168dd5a67972611688fe6c1cdd6.js",
+    "precache-manifest.f783527eab479f7e38ecc7461213ae8b.js": "/MyIntroduction/precache-manifest.f783527eab479f7e38ecc7461213ae8b.js",
     "service-worker.js": "/MyIntroduction/service-worker.js",
-    "static/css/main.a5686af0.chunk.css.map": "/MyIntroduction/static/css/main.a5686af0.chunk.css.map",
-    "static/js/2.d29e212e.chunk.js.LICENSE.txt": "/MyIntroduction/static/js/2.d29e212e.chunk.js.LICENSE.txt",
+    "static/css/main.0cbc12a6.chunk.css.map": "/MyIntroduction/static/css/main.0cbc12a6.chunk.css.map",
+    "static/js/2.546da225.chunk.js.LICENSE.txt": "/MyIntroduction/static/js/2.546da225.chunk.js.LICENSE.txt",
     "static/media/mainpage.css": "/MyIntroduction/static/media/DSC_0491.0290c35f.JPG",
     "static/media/top.css": "/MyIntroduction/static/media/DSC_0560.5ced72f4.JPG",
     "static/media/cooking.gif": "/MyIntroduction/static/media/cooking.5dfa40c8.gif",
@@ -20,12 +20,13 @@
     "static/media/moguratataki.gif": "/MyIntroduction/static/media/moguratataki.7f352e1a.gif",
     "static/media/pokemon.gif": "/MyIntroduction/static/media/pokemon.31e8ba2f.gif",
     "static/media/profile.jpg": "/MyIntroduction/static/media/profile.8cfc294e.jpg",
-    "static/media/waniImg.gif": "/MyIntroduction/static/media/waniImg.467d7d69.gif"
+    "static/media/waniImg.gif": "/MyIntroduction/static/media/waniImg.467d7d69.gif",
+    "static/media/wordApp.gif": "/MyIntroduction/static/media/wordApp.838964d1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.2ed7c1ae.js",
-    "static/js/2.d29e212e.chunk.js",
-    "static/css/main.a5686af0.chunk.css",
-    "static/js/main.64651452.chunk.js"
+    "static/js/2.546da225.chunk.js",
+    "static/css/main.0cbc12a6.chunk.css",
+    "static/js/main.ab175841.chunk.js"
   ]
 }
