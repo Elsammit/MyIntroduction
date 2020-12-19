@@ -32,9 +32,13 @@ header{
 }
 
 .leftaside{
-    width:200px;
+    width:500px;
     margin-top: 50px;
     margin-left:50px;
+}
+
+.SelectApp{
+    font-size:20px;
 }
 
 .article{
@@ -42,7 +46,7 @@ header{
 }
 
 .aside{
-    width:200px;
+    width:150px;
     margin-top: 50px;
     margin-left:250px;
 }
@@ -63,6 +67,10 @@ header{
     height:100px;
 }
 
+.asideSelectButton{
+
+}
+
 .Footer{
     background-color: black;
     text-align: center;
@@ -72,4 +80,53 @@ header{
 .Footer_moji{
     font-size: 10px;
     color:white;
+}
+
+.sidebar{
+    width:320px;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+.item{
+  width:200px;
+  padding-bottom: 5px;
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 30px;
+  color: #ffffff;
+  background-image: linear-gradient(45deg, #FFC107 0%, #ff8b5f 100%);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+  border-bottom: solid 3px #c58668;
+  
+}
+
+.item:active {
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+  border-bottom: none;
+}
+
+.asideSelectButton {
+    width:300px;
+    margin-top:20px;
+    margin-left:10px;
+    font-size: 30px;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 4px;
+    color: #ffffff;
+    background-image: linear-gradient(#6795fd 0%, #67ceff 100%);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 3px #5e7fca;
+}
+
+.asideSelectButton:active {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: none;
 }
